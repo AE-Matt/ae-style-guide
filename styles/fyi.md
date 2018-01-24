@@ -29,3 +29,5 @@ For inspiration, check out [Material Design's thorough motion guidelines](https:
 
 ## Voice and Tone
 For inspiration, check out MailChimp's fantastic [Voice and Tone](http://voiceandtone.com/) website.
+
+![Image Alt Text](../images/logo.png)
